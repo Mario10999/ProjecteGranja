@@ -1,0 +1,13 @@
+res://scenes/test/test_sence_house_tilemap.tscn
+res://Tilesets/floor.tres
+res://Tilesets/tileset_dungeon_collision.tres
+res://Tilesets/Obstacles.tres
+res://Tilesets/carts.tres
+res://Tilesets/house_tile_set.tres
+res://Tilesets/game_tile_set.tres
+res://scenes/worlds/Dungeon_world.tscn
+res://scenes/characters/player1/player_1.gd
+res://scenes/characters/player1/idle.gd
+res://scenes/characters/player1/walk_state.gd
+res://scenes/test/test_sence_tilemap.tscn
+res://scenes/characters/player1/player_1.tscn
